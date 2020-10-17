@@ -1,4 +1,4 @@
-##My Approach
+My Approach
 
 ReactJS was used to create the mail archiver UI. It was a bit challenging as it tested my existing knowledge about the front-end tools. One thing that I realized after completing
 the project is that the most important skill is not to know as much as you can, but rather it is the ability to go digging for the solutions of the problem at hand; via documentations,
